@@ -2,7 +2,7 @@ preview
 <h1 align="center">Hi 👋, I'm Mohamed Elogiel</h1>
 <h3 align="center">A passionate data analyst</h3>
 
-- 🔭 I’m currently working on [Nashville Housing]((https://github.com/mohamede-12/Nashville-Housing))
+- 🔭 I’m currently working on [Nashville Housing](https://github.com/mohamede-12/Nashville-Housing)
 
 - 🌱 I’m currently learning **Rstudio, Python, and Tableau**
 
